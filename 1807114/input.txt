@@ -1,0 +1,48 @@
+main
+{
+	##Starting of the program
+	integer_num a,b,d,m,n,z,i,cc = 5;
+	a = 6;
+	b = 3;
+	m = a gun b;
+	z = a vag b;
+
+	jodi(b boro a)
+	{
+		a jog b;
+	}
+	abar_jodi(b choto a)
+	{
+		b biyog a;
+	}
+	nahole
+	{
+		a gun b;
+	}
+
+	n=2 shuchok 3;
+
+	aborton (b choto 10;b++)
+	{
+		d=a jog b;
+	}
+
+	poriborton ( b )
+	{
+	shorto 1 :
+		a jog b; vanga;
+	+
+	shorto 2 :
+		a biyog b; vanga;
+	+
+	shorto 3 : 
+		a gun b; vanga;
+	dflt :
+		b biyog a ; vanga;
+	}
+
+	dekhano(a);
+	LOG(1000);
+	SIN(30);
+	
+}	

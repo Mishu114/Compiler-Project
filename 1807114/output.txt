@@ -1,0 +1,36 @@
+This is a single line comment.
+Variable (a) Declared
+Variable (b) Declared
+Variable (d) Declared
+Variable (m) Declared
+Variable (n) Declared
+Variable (z) Declared
+Variable (i) Declared
+
+Variable cc = 5
+
+Declaration
+
+Variable a = 6	
+
+Variable b = 3	
+
+Variable m = 18	
+
+Variable z = 2	
+value(ELIF): -3
+
+Variable n = 8	
+iteration 3: value= 9
+iteration 4: value= 9
+iteration 5: value= 9
+iteration 6: value= 9
+iteration 7: value= 9
+iteration 8: value= 9
+iteration 9: value= 9
+CASE 1 -> 9
+CASE 2 -> 3
+CASE 3 -> 18
+CASE (Default) -> -3
+6Value of log(1000) is 3.000000
+Value of Sin(30) is 0.500001
